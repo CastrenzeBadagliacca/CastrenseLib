@@ -1,2 +1,2 @@
 # CastrenseLib
-My library
+Library NET
